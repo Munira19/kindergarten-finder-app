@@ -1,104 +1,156 @@
-# Kinder Finder App📱
+# KinderFinder 📱
 
-A mobile application developed as a graduation project to help parents easily discover and select suitable kindergartens based on location, services, and available information.
+> A Flutter-based mobile application that helps parents discover, compare, and enroll their children in kindergartens with ease.
 
-## 📌 Project Overview
-
-Kindergarten Finder is a Flutter-based mobile application designed to simplify the process of finding kindergartens. The application provides parents with an organized way to explore kindergarten options, view details, and make better decisions when choosing early education facilities.
-
-The project focuses on improving accessibility, reducing the time required to search for kindergartens, and providing a user-friendly experience.
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-2.x-blue?logo=dart)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?logo=firebase)
+![License](https://img.shields.io/badge/License-Academic-green)
 
 ---
 
-## 🎯 Objectives
+## 📖 Overview
 
-- Develop a mobile solution for kindergarten discovery.
-- Provide parents with accessible kindergarten information.
-- Improve the process of comparing available options.
-- Apply mobile application development concepts using Flutter.
+KinderFinder is a mobile application developed as a graduation project at **Taif University**.
+
+The application simplifies the process of finding suitable kindergartens by allowing parents to search, compare, review, and register for kindergartens through one platform instead of relying on word-of-mouth recommendations.
 
 ---
 
 ## ✨ Features
 
-- 🔍 Search for kindergartens
-- 📍 Location-based kindergarten discovery
-- 🏫 View kindergarten details
-- ⭐ Compare available options
-- 👤 User-friendly mobile interface
-- 📱 Responsive design for mobile devices
+- 🔍 Search kindergartens by city or preferred location.
+- 🏫 View detailed kindergarten profiles.
+- ⭐ Read ratings and reviews from other parents.
+- 💰 Compare tuition fees.
+- 🚌 View transportation availability.
+- 📅 Check operating days and schedules.
+- 📝 Register children directly through the application.
+- 💳 Pay registration fees securely.
+- 📱 Simple and intuitive mobile interface.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-### Frontend
-- Flutter
-- Dart
+| Category | Technologies |
+|----------|--------------|
+| Mobile Development | Flutter, Dart |
+| Backend | Firebase |
+| Database | Firebase Firestore |
+| UI Design | Figma |
+| Project Management | Agile (Scrum) |
+| Version Control | Git & GitHub |
 
-### Database / Backend
-- Firebase
+---
 
-### Development Tools
-- Android Studio
-- Git & GitHub
+## 📱 Screenshots
+| Welcome | Login | Forgot Password |
+|---------|-------|-----------------|
+| <img src="screenshots/welcome.png" width="220"/> | <img src="screenshots/login.png" width="220"/> | <img src="screenshots/forgot-password.png" width="220"/> |
+
+| Home | Details | Payment |
+|------|---------|---------|
+| <img src="screenshots/home.png" width="220"/> | <img src="screenshots/details.png" width="220"/> | <img src="screenshots/payment.png" width="220"/> |
+
+---
+
+## 🏗️ System Workflow
+
+1. User creates an account or logs in.
+2. Search for kindergartens by location.
+3. Browse kindergarten information.
+4. Compare available options.
+5. Read parent reviews.
+6. Register a child.
+7. Complete payment securely.
+
+---
+
+## 🚀 Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Munira19/Kinder_Finder.git
+```
+
+### Navigate to the project
+
+```bash
+cd Kinder_Finder
+```
+
+### Install dependencies
+
+```bash
+flutter pub get
+```
+
+### Run the application
+
+```bash
+flutter run
+```
 
 ---
 
 ## 📂 Project Structure
 
-
-Kindergarten-Finder/
+```
+lib/
 │
-├── lib/
-│ ├── screens/
-│ ├── widgets/
-│ ├── models/
-│ └── services/
-│
-├── assets/
-│
-├── pubspec.yaml
-│
-└── README.md
-
+├── models/
+├── screens/
+├── widgets/
+├── services/
+├── providers/
+└── main.dart
+```
 
 ---
 
-## 🚀 Getting Started
+## 🎯 Project Objectives
 
-### Prerequisites
+- Help parents make informed decisions.
+- Provide reliable kindergarten information.
+- Reduce the time spent searching for schools.
+- Improve accessibility to educational services.
 
-Make sure you have:
+---
 
-- Flutter SDK installed
-- Android Studio installed
-- Emulator or physical Android device
+## 📚 Development Methodology
 
-### Installation
+This project was developed following the **Agile Scrum** methodology, allowing iterative development, continuous feedback, and collaborative teamwork throughout the project lifecycle.
 
-Clone the repository:
+---
 
-```bash
-git clone https://github.com/yourusername/kindergarten-finder.git
+## 👥 Team
 
-Navigate to the project folder:
+- **Munirah Alorabi**
+- Shahad Alghamdi
+- Manar Altalhi
+- Atheer Althobaity
+- Manahel Alotaibi
+- Saja Alzahrani
 
-cd kindergarten-finder
+Department of Information Technology  
+College of Computer Science and Information Technology  
+Taif University
 
-Install dependencies:
+---
 
-flutter pub get
+## 🔮 Future Enhancements
 
-Run the application:
+- AI-powered kindergarten recommendations.
+- Interactive map integration.
+- Push notifications.
+- Online chat with kindergartens.
+- Multi-language support.
+- Advanced filtering options.
 
-flutter run
-📸 Screenshots
+---
 
+## 📄 License
 
-👩‍💻 Authors
-
-Munirah Alorabi
-
-Bachelor of Information Technology
-Taif University | Graduation Project
+This project was developed for academic purposes as a graduation project at Taif University.
