@@ -46,7 +46,9 @@ The application simplifies the process of finding suitable kindergartens by allo
 
 ## 📱 Screenshots
 
-| <img src="screenshots/Welcome.png" width="220"/> | <img src="screenshots/a.png" width="220"/> 
+| | |
+|---|---|
+| <img src="screenshots/Welcome.png" width="220"/> | <img src="screenshots/a.png" width="220"/> |
 
 
 
