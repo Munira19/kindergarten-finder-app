@@ -45,13 +45,10 @@ The application simplifies the process of finding suitable kindergartens by allo
 ---
 
 ## 📱 Screenshots
-| Welcome | Login | Forgot Password |
-|---------|-------|-----------------|
-| <img src="screenshots/welcome.png" width="220"/> | <img src="screenshots/login.png" width="220"/> | <img src="screenshots/forgot-password.png" width="220"/> |
 
-| Home | Details | Payment |
-|------|---------|---------|
-| <img src="screenshots/home.png" width="220"/> | <img src="screenshots/details.png" width="220"/> | <img src="screenshots/payment.png" width="220"/> |
+| <img src="screenshots/capture_20260723032620189.bmp" width="220"/> | <img src="screenshots/capture_20260723032701814.bmp" width="220"/> 
+
+
 
 ---
 
